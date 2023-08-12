@@ -5,7 +5,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: About
+title: Combinatorics in Christchurch
 ---
 
 To do
