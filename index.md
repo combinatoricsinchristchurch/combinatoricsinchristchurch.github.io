@@ -23,5 +23,5 @@ University of Canterbury, Christchurch, New Zealand
 - TBC
 
 ## Organisers
-[Jesse Lansdown](https://www.jesselansdown.com/), University of Canterbury </br>
+[Jesse Lansdown](https://www.jesselansdown.com/), University of Canterbury <br></br>
 [Geertrui Van de Voorde](https://www.canterbury.ac.nz/engineering/contact-us/people/geertrui-van-de-voorde.html), University of Canterbury
