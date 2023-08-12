@@ -12,7 +12,7 @@ title: Combinatorics in Christchurch
 Sometime in the first week of June, 2024 (TBC)
 
 ## Venue
-University of Canterbury, Christchurch, New Zealand
+[University of Canterbury](https://www.canterbury.ac.nz/), Christchurch, New Zealand
 
 ## Invited speakers
 - TBC
