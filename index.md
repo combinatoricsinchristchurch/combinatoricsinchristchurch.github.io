@@ -7,6 +7,7 @@
 layout: default
 title: Combinatorics in Christchurch
 ---
+**Combinatorics in Christchurch** aims to bolster the combinatorial community in New Zealand by bringing together mathematicians working in combinatorics and related fields.
 
 ## Dates
 Sometime in the first week of June, 2024 (TBC)
