@@ -8,4 +8,10 @@ layout: default
 title: Combinatorics in Christchurch
 ---
 
-To do
+## Invited speakers
+- TBC
+- TBC
+- TBC
+- TBC
+- TBC
+- TBC
