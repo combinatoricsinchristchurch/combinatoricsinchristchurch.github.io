@@ -10,9 +10,10 @@ url: "https://combinatoricsinchristchurch.github.io/" # the base hostname & prot
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'About', link: '/'}
+  - {name: 'Registration', link: '/registration'}
+  - {name: 'Abstract Submission', link: '/abstract'}
+  - {name: 'Programme', link: '/programme'}
 
 #tagline: >
 #  Modern Jekyll theme focused on speed performance &amp; SEO best practices
