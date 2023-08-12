@@ -8,6 +8,12 @@ layout: default
 title: Combinatorics in Christchurch
 ---
 
+## Dates
+Sometime in the first week of June, 2024 (TBC)
+
+## Venue
+University of Canterbury, Christchurch, New Zealand
+
 ## Invited speakers
 - TBC
 - TBC
@@ -15,3 +21,7 @@ title: Combinatorics in Christchurch
 - TBC
 - TBC
 - TBC
+
+## Organisers
+[Jesse Lansdown](https://www.jesselansdown.com/)
+[Geertrui Van de Voorde](https://www.canterbury.ac.nz/engineering/contact-us/people/geertrui-van-de-voorde.html), University of Canterbury
