@@ -23,6 +23,11 @@ Sometime in the first week of June, 2024 (TBC)
 - TBC
 - TBC
 
+| Invited speakers | |
+|:--:|:--:|
+| [John Bamberg](https://johnbamberg.github.io/) | The University of Western Australia |
+| [Gary Greaves](https://personal.ntu.edu.sg/gary/) | Nanyang Technological University |
+
 ## Organisers
 [Jesse Lansdown](https://www.jesselansdown.com/), University of Canterbury <br>
 [Geertrui Van de Voorde](https://www.canterbury.ac.nz/engineering/contact-us/people/geertrui-van-de-voorde.html), University of Canterbury
