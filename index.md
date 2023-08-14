@@ -23,7 +23,7 @@ Sometime in the first week of June, 2024 (TBC)
 - TBC
 - TBC
 
-| Invited speakers | |
+| | |
 |:--:|:--:|
 | [John Bamberg](https://johnbamberg.github.io/) | The University of Western Australia |
 | [Gary Greaves](https://personal.ntu.edu.sg/gary/) | Nanyang Technological University |
