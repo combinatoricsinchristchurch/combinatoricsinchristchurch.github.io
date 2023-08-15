@@ -19,6 +19,7 @@ Sometime in the first week of June, 2024 (TBC)
 
 | | |
 |:--:|:--:|
+| [Bill Martin](https://www.wpi.edu/people/faculty/martin) | Worcester Polytechnic Institute |
 | [Carmen Amarra](https://math.upd.edu.ph/faculty/amarra-maria-carmen) | University of the Philippines Diliman |
 | [John Bamberg](https://johnbamberg.github.io/) | The University of Western Australia |
 | [Gary Greaves](https://personal.ntu.edu.sg/gary/) | Nanyang Technological University |
