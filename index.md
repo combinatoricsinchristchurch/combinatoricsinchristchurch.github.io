@@ -21,6 +21,8 @@ Sometime in the first week of June, 2024 (TBC)
 |:--:|:--:|:--:|
 |  <img src="CarmenCroppedResized.jpg"> | <img src="JohnCroppedResized.jpg">  | <img src="GaryGreavesCroppedResized.jpg">  |
 | [Carmen Amarra](https://math.upd.edu.ph/faculty/amarra-maria-carmen) <br> University of the Philippines Diliman, <br> Philippines  | [John Bamberg](https://johnbamberg.github.io/) <br> The University of Western Australia,<br> Australia | [Gary Greaves](https://personal.ntu.edu.sg/gary/) <br> Nanyang Technological University, <br> Singapore |
+| | | |
+| [Sho Suda](https://researchmap.jp/7000005386?lang=en), <br> National Defense Academy of Japan, <br> Japan | | |
 
 ## Organisers
 [Jesse Lansdown](https://www.jesselansdown.com/), University of Canterbury <br>
