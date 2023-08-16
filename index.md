@@ -19,8 +19,8 @@ Sometime in the first week of June, 2024 (TBC)
 
 | | [Bill Martin](https://www.wpi.edu/people/faculty/martin) <br> Worcester Polytechnic Institute, <br> USA | |
 |:--:|:--:|:--:|
-|  <img src="CarmenCroppedResized.jpg"> <br> [Carmen Amarra](https://math.upd.edu.ph/faculty/amarra-maria-carmen) <br> University of the Philippines Diliman, <br> Philippines | <img src="JohnCroppedResized.jpg"> <br> [John Bamberg](https://johnbamberg.github.io/) <br> The University of Western Australia,<br> Australia | <img src="GaryGreavesCroppedResized.jpg"> <br> [Gary Greaves](https://personal.ntu.edu.sg/gary/) <br> Nanyang Technological University, <br> Singapore |
-| TBC | TBC | TBC |
+|  <img src="CarmenCroppedResized.jpg"> | <img src="JohnCroppedResized.jpg">  | <img src="GaryGreavesCroppedResized.jpg">  |
+| [Carmen Amarra](https://math.upd.edu.ph/faculty/amarra-maria-carmen) <br> University of the Philippines Diliman, <br> Philippines  | [John Bamberg](https://johnbamberg.github.io/) <br> The University of Western Australia,<br> Australia | [Gary Greaves](https://personal.ntu.edu.sg/gary/) <br> Nanyang Technological University, <br> Singapore |
 
 ## Organisers
 [Jesse Lansdown](https://www.jesselansdown.com/), University of Canterbury <br>
