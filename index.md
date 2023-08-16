@@ -17,15 +17,11 @@ Sometime in the first week of June, 2024 (TBC)
 
 ## Invited speakers
 
-| | |
-|:--:|:--:|
-| [Bill Martin](https://www.wpi.edu/people/faculty/martin) | Worcester Polytechnic Institute |
-|  <img src="CarmenCroppedResized.jpg"> <br> [Carmen Amarra](https://math.upd.edu.ph/faculty/amarra-maria-carmen) | University of the Philippines Diliman |
-| [John Bamberg](https://johnbamberg.github.io/) | The University of Western Australia |
-| <img src="GaryGreavesCroppedResized.jpg"> [Gary Greaves](https://personal.ntu.edu.sg/gary/) | Nanyang Technological University |
-| TBC | |
-| TBC | |
-| TBC | |
+| | | |
+|:--:|:--:|:--:|
+| [Bill Martin](https://www.wpi.edu/people/faculty/martin) <br> Worcester Polytechnic Institute |
+|  <img src="CarmenCroppedResized.jpg"> <br> [Carmen Amarra](https://math.upd.edu.ph/faculty/amarra-maria-carmen) <br> University of the Philippines Diliman, Philippines | [John Bamberg](https://johnbamberg.github.io/) <br>, The University of Western Australia, Australia | <img src="GaryGreavesCroppedResized.jpg"> <br> [Gary Greaves](https://personal.ntu.edu.sg/gary/) <br> Nanyang Technological University, Singapore |
+
 
 ## Organisers
 [Jesse Lansdown](https://www.jesselansdown.com/), University of Canterbury <br>
