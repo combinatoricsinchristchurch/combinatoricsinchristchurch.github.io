@@ -3,4 +3,4 @@ layout: page
 title: Programme
 permalink: /programme/
 ---
-To do
+The programme will be made available after registrations are finalised.
