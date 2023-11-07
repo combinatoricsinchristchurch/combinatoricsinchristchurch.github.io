@@ -30,6 +30,6 @@ title: Combinatorics in Christchurch
 
 ## Sponsors and support
 | | |
-|:--|--:|
-| <img src="ICAlogo.png"> | [The Institute of Combinatorics and its Applications](http://the-ica.org/) |
+|:--:|:--:|
+| <img src="ICAlogo.png" width="150" height="50"> | [The Institute of Combinatorics and its Applications](http://the-ica.org/) |
 
