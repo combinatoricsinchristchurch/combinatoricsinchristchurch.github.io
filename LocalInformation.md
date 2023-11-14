@@ -21,4 +21,5 @@ You are responsible for booking your own accommodation. There are numerous motel
 - [315 Motel Riccarton](http://www.315motelriccarton.co.nz/)
 - [Amore Motor Lodge](https://amoremotorlodge.co.nz/)
 - [Apollo Motel](https://www.apollomotel.co.nz/)
+
 And many others.
