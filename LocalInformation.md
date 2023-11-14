@@ -8,7 +8,7 @@ permalink: /localinfo/
 [Campus map](https://www.canterbury.ac.nz/maps/home?poi=10734&z=16&c=-43.52306699770867%2C172.58313382771516)
 
 # Transportation
-- **Bus:** Buses run every few minutes from numerous stops around campus and can be viewed on [this map](http://www.metroinfo.co.nz/map/) by selecting University of Canterbury from the "By key location" drop-down list. The website [http://www.metroinfo.co.nz](http://www.metroinfo.co.nz/) has timetables, route maps and a journey planner for all bus routes in Christchurch. The number 3 line runs from the airport to the Ilam Campus every 30 minutes.
+- **Bus:** Buses run every few minutes from numerous stops around campus and can be viewed on [this map](http://www.metroinfo.co.nz/map/). The website [http://www.metroinfo.co.nz](http://www.metroinfo.co.nz/) has timetables, route maps and a journey planner for all bus routes in Christchurch. The number 3 line runs from the airport to the Ilam Campus every 30 minutes.
 - **Taxi:** [Green Cabs](http://greencabs.co.nz/), [Blue Star](http://www.bluestartaxis.org.nz/), and [Gold Band](http://www.goldbandtaxis.co.nz/)
 - **Shuttle:** [Super Shuttle](https://www.supershuttle.co.nz/Default.aspx) offer airport transfers.
     Super Shuttle is an easy and cheap airport transfer option. Bookings can be made online or by calling 0800-SHUTTLE (748885).
