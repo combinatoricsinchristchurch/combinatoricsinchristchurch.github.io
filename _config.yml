@@ -11,8 +11,8 @@ url: "https://combinatoricsinchristchurch.github.io/" # the base hostname & prot
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Combinatorics in Christchurch', link: '/'}
-  - {name: 'Registration', link: '/registration'}
-  - {name: 'Abstract Submission', link: '/abstract'}
+  - {name: 'Registration and Abstract Submission', link: '/registration'}
+  - {name: 'Local Information', link: '/localinfo'}
   - {name: 'Programme', link: '/programme'}
 
 #tagline: >
