@@ -4,7 +4,7 @@ title: Registration
 permalink: /registration/
 ---
 **Cost:** Free to attend.</br>
-*Note, conference dinner and excursion may incur costs if you choose to participate.*</br>
+- *Note, conference dinner and excursion may incur costs if you choose to participate.*</br>
 **Deadline for registration:** 19 April 2024</br>
 **Deadline for abstract submission:** 19 April 2024</br>
 
