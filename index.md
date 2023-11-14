@@ -9,11 +9,11 @@ title: Combinatorics in Christchurch
 ---
 **Combinatorics in Christchurch** aims to bolster the combinatorial community in New Zealand by bringing together mathematicians working in combinatorics and related fields.
 
-## Dates
-4 - 6 June 2024
-
-## Venue
-[University of Canterbury](https://www.canterbury.ac.nz/), Christchurch, New Zealand
+## Key information
+- **Dates:** 4 - 6 June 2024
+- **Location:** [University of Canterbury](https://www.canterbury.ac.nz/), Christchurch, New Zealand
+- **Cost:** Free to attend.
+- **Deadline for registration and abstract submission:** 19 April, 2024
 
 ## Invited speakers
 
