@@ -11,9 +11,6 @@ permalink: /localinfo/
 - **Bus:** Buses run every few minutes from numerous stops around campus and can be viewed on [this map](http://www.metroinfo.co.nz/map/). The website [http://www.metroinfo.co.nz](http://www.metroinfo.co.nz/) has timetables, route maps and a journey planner for all bus routes in Christchurch. The number 3 line runs from the airport to the Ilam Campus every 30 minutes.
 - **Taxi:** [Green Cabs](http://greencabs.co.nz/), [Blue Star](http://www.bluestartaxis.org.nz/), and [Gold Band](http://www.goldbandtaxis.co.nz/)
 - **Shuttle:** [Super Shuttle](https://www.supershuttle.co.nz/Default.aspx) offer airport transfers.
-    Super Shuttle is an easy and cheap airport transfer option. Bookings can be made online or by calling 0800-SHUTTLE (748885).
-
-
 
 # Accommodation
 You are responsible for booking your own accommodation. There are numerous motels on Riccarton Road, approximately a 20 minute walk from the conference venue. For example:
