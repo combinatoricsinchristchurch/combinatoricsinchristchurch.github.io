@@ -13,7 +13,7 @@ title: Combinatorics in Christchurch
 - **Dates:** 4 - 6 June 2024
 - **Location:** [University of Canterbury](https://www.canterbury.ac.nz/), Christchurch, New Zealand
 - **Cost:** Free to attend.
-- **Deadline for registration and abstract submission:** 19 April, 2024
+- **Deadline for registration and abstract submission:** 19 April 2024
 
 ## Invited speakers
 
