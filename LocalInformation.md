@@ -4,9 +4,8 @@ title: Local Information
 permalink: /localinfo/
 ---
 
+# Maps
 [Campus map](https://www.canterbury.ac.nz/maps/home?poi=10734&z=16&c=-43.52306699770867%2C172.58313382771516)
-
-Accommodation close to campus: to come.
 
 # Transportation
 - **Bus:** Buses run every few minutes from numerous stops around campus and can be viewed on [this map](http://www.metroinfo.co.nz/map/) by selecting University of Canterbury from the "By key location" drop-down list. The website [http://www.metroinfo.co.nz](http://www.metroinfo.co.nz/) has timetables, route maps and a journey planner for all bus routes in Christchurch. The number 3 line runs from the airport to the Ilam Campus every 30 minutes.
