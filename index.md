@@ -33,4 +33,5 @@ title: Combinatorics in Christchurch
 |  |  |
 |:--:|:--:|
 | <img src="ICAlogo.png"> | [The Institute of Combinatorics and its Applications](http://the-ica.org/) |
+| <img src="nzmslogoB.png"> | [New Zealand Mathematical Society](https://nzmathsoc.org.nz/) |
 
