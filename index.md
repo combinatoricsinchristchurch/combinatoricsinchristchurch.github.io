@@ -21,8 +21,8 @@ title: Combinatorics in Christchurch
 |:--:|:--:|:--:|
 |  <img src="CarmenCroppedResized.jpg"> | <img src="JohnCroppedResized.jpg">  | <img src="GaryGreavesCroppedResized.jpg">  |
 | [Carmen Amarra](https://math.upd.edu.ph/faculty/amarra-maria-carmen) <br> University of the Philippines Diliman, <br> Philippines  | [John Bamberg](https://johnbamberg.github.io/) <br> The University of Western Australia,<br> Australia | [Gary Greaves](https://personal.ntu.edu.sg/gary/) <br> Nanyang Technological University, <br> Singapore |
-| <img src="AnitaCroppedResized.jpg"> | <img src="ShoCroppedResized.jpg"> | <img src="JL_placeholderCroppedResized.jpg"> |
-| [Anita Liebenau](https://sites.google.com/site/aliebenau/home), <br> University of New South Wales, <br> Australia |  [Sho Suda](https://researchmap.jp/7000005386?lang=en), <br> National Defense Academy of Japan, <br> Japan | TBC |
+| <img src="AnitaCroppedResized.jpg"> | <img src="JeroenCroppedResized.jpg"> | <img src="ShoCroppedResized.jpg"> |
+| [Anita Liebenau](https://sites.google.com/site/aliebenau/home), <br> University of New South Wales, <br> Australia | [Jeroen Schillewaert](https://profiles.auckland.ac.nz/j-schillewaert), <br> University of Auckland, <br> New Zealand |  [Sho Suda](https://researchmap.jp/7000005386?lang=en), <br> National Defense Academy of Japan, <br> Japan |
 
 ## Organisers
 [Jesse Lansdown](https://www.jesselansdown.com/), University of Canterbury <br>
