@@ -34,6 +34,7 @@ title: Combinatorics in Christchurch
 
 |  |  |
 |:--:|:--:|
+| <img src="xl-logo.svg"> |[University of Canterbury](https://www.canterbury.ac.nz/) |
 | <img src="ICAlogo.png"> | [The Institute of Combinatorics and its Applications](http://the-ica.org/) |
 | <img src="nzmslogoB.png"> | [New Zealand Mathematical Society](https://nzmathsoc.org.nz/) |
 
