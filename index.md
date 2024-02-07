@@ -16,7 +16,7 @@ title: Combinatorics in Christchurch
 - **Deadline for registration and abstract submission:** 19 April 2024
 
 <span style="color:red">
-Warning: Beware of phishing emails that claim to be organising accommodation or travel on behalf of the conference. These are not legitimate and should be ignored!
+Warning: Beware of phishing emails that claim to be organising accommodation or travel on behalf of the conference. These are scams and should be ignored!
 </span>
 
 ## Keynote and invited speakers
