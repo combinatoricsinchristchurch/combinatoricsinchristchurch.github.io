@@ -14,7 +14,7 @@ permalink: /localinfo/
 
 # Accommodation
 <span style="color:red">
-Warning: Beware of phishing emails that may claim to be organising accommodation or travel on behalf of the conference. These are not legitimate and should be ignored!
+Warning: Beware of phishing emails that claim to be organising accommodation or travel on behalf of the conference. These are not legitimate and should be ignored!
 </span>
 
 You are responsible for booking your own accommodation. There are numerous motels on Riccarton Road, approximately a 20 minute walk from the conference venue. For example:
