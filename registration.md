@@ -4,7 +4,7 @@ title: Registration and abstract submission
 permalink: /registration/
 ---
 
-Note: International visitors other than Australian citizens will be required to obtain either a [visa or NZeta](https://www.immigration.govt.nz/new-zealand-visas/visas/visa/nzeta) before coming to New Zealand. This is the responsibility of the participant and we are unable to help with this process.
+Note: International visitors other than Australian citizens will be required to obtain either a [visa or NZeTA](https://www.immigration.govt.nz/new-zealand-visas/visas/visa/nzeta) before coming to New Zealand. This is the responsibility of the participant and we are unable to help with this process.
 
 # Registration
 - **Deadline:** 19 April 2024
