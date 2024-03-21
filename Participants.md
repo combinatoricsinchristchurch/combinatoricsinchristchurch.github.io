@@ -1,3 +1,9 @@
+---
+layout: page
+title: Participants
+permalink: /participants/
+---
+
 James Bartlett, University of Canterbury
 Abdul Basit, Monash University
 Marston Conder, University of Auckland
