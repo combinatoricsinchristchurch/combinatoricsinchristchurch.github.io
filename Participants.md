@@ -4,25 +4,25 @@ title: Participants
 permalink: /participants/
 ---
 
-1) Carmen Amarra, University of the Philippines Diliman
-1) John Bamberg, The University of Western Australia
-1) James Bartlett, University of Canterbury
-1) Abdul Basit, Monash University
-1) Marston Conder, University of Auckland
-1) Gary Greaves, Nanyang Technological University
-1) Jesse Lansdown, University of Canterbury
-1) Anita Liebenau, University of New South Wales
-1) William J. Martin, Worcester Polytechnic Institute
-1) John McLachlan, University of Canterbury
-1) Jeanette McLeod, University of Canterbury
-1) Sebastian Petit, University of Canterbury
-1) Dane Sandiko, University of the Philippines
-1) Jeroen Schillewaert, University of Auckland
-1) Ian Seong, University of Wisconsin-Madison
-1) Minal Shukla
-1) Matt Slattery-Holmes, Otago University
-1) Gunter Steinke, University of Canterbury
-1) Sho Suda, National Defense Academy of Japan
-1) Geertrui Van de Voorde, University of Canterbury
-1) Felipe Voloch, University of Canterbury
-1) Darius Young, The University of Auckland
+Carmen Amarra, University of the Philippines Diliman <br>
+John Bamberg, The University of Western Australia <br>
+James Bartlett, University of Canterbury <br>
+Abdul Basit, Monash University <br>
+Marston Conder, University of Auckland <br>
+Gary Greaves, Nanyang Technological University <br>
+Jesse Lansdown, University of Canterbury <br>
+Anita Liebenau, University of New South Wales <br>
+William J. Martin, Worcester Polytechnic Institute <br>
+John McLachlan, University of Canterbury <br>
+Jeanette McLeod, University of Canterbury <br>
+Sebastian Petit, University of Canterbury <br>
+Dane Sandiko, University of the Philippines <br>
+Jeroen Schillewaert, University of Auckland <br>
+Ian Seong, University of Wisconsin-Madison <br>
+Minal Shukla <br>
+Matt Slattery-Holmes, Otago University <br>
+Gunter Steinke, University of Canterbury <br>
+Sho Suda, National Defense Academy of Japan <br>
+Geertrui Van de Voorde, University of Canterbury <br>
+Felipe Voloch, University of Canterbury <br>
+Darius Young, The University of Auckland <br>
