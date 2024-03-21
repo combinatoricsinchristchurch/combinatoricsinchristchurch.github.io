@@ -13,8 +13,8 @@ navigation: # Navigation links
   - {name: 'Combinatorics in Christchurch', link: '/'}
   - {name: 'Registration and Abstract Submission', link: '/registration'}
   - {name: 'Local Information', link: '/localinfo'}
-  - {name: 'Programme', link: '/programme'}
   - {name: 'Participants', link: '/participants'}
+  - {name: 'Programme', link: '/programme'}
 
 #tagline: >
 #  Modern Jekyll theme focused on speed performance &amp; SEO best practices
