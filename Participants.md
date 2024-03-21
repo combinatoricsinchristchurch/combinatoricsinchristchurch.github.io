@@ -4,8 +4,8 @@ title: Participants
 permalink: /participants/
 ---
 
-James Bartlett, University of Canterbury
-Abdul Basit, Monash University
+1) James Bartlett, University of Canterbury
+1) Abdul Basit, Monash University
 Marston Conder, University of Auckland
 Jesse Lansdown, University of Canterbury
 John McLachlan, University of Canterbury
