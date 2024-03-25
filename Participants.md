@@ -11,7 +11,7 @@ Abdul Basit, Monash University <br>
 Marston Conder, University of Auckland <br>
 Gary Greaves, Nanyang Technological University <br>
 Jesse Lansdown, University of Canterbury <br>
-Harris Leung University of Auckland <br>
+Harris Leung, University of Auckland <br>
 Anita Liebenau, University of New South Wales <br>
 William J. Martin, Worcester Polytechnic Institute <br>
 John McLachlan, University of Canterbury <br>
