@@ -9,6 +9,7 @@ John Bamberg, The University of Western Australia <br>
 James Bartlett, University of Canterbury <br>
 Abdul Basit, Monash University <br>
 Marston Conder, University of Auckland <br>
+Rohan Crookbain, University of Canterbury<br>
 Gary Greaves, Nanyang Technological University <br>
 Jesse Lansdown, University of Canterbury <br>
 Harris Leung, University of Auckland <br>
