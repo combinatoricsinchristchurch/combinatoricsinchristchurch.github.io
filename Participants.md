@@ -12,6 +12,7 @@ Marston Conder, University of Auckland <br>
 Rohan Crookbain, University of Canterbury<br>
 Gary Greaves, Nanyang Technological University <br>
 Jesse Lansdown, University of Canterbury <br>
+Florian Lehner, University of Auckland<br>
 Harris Leung, University of Auckland <br>
 Anita Liebenau, University of New South Wales <br>
 William J. Martin, Worcester Polytechnic Institute <br>
@@ -27,4 +28,4 @@ Gunter Steinke, University of Canterbury <br>
 Sho Suda, National Defense Academy of Japan <br>
 Geertrui Van de Voorde, University of Canterbury <br>
 Felipe Voloch, University of Canterbury <br>
-Darius Young, The University of Auckland <br>
+Darius Young, University of Auckland <br>
