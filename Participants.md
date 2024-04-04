@@ -22,6 +22,7 @@ Sebastian Petit, University of Canterbury <br>
 Dane Sandiko, University of the Philippines <br>
 Jeroen Schillewaert, University of Auckland <br>
 Ian Seong, University of Wisconsin-Madison <br>
+Minal Shukla, MGL Group <br>
 Matt Slattery-Holmes, Otago University <br>
 Gunter Steinke, University of Canterbury <br>
 Sho Suda, National Defense Academy of Japan <br>
