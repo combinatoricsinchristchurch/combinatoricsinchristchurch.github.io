@@ -10,7 +10,6 @@ James Bartlett, University of Canterbury <br>
 Abdul Basit, Monash University <br>
 Marston Conder, University of Auckland <br>
 Rohan Crookbain, University of Canterbury<br>
-Bintou Fye, St Joseph Institute of Technology, The Gambia<br>
 Gary Greaves, Nanyang Technological University <br>
 Jesse Lansdown, University of Canterbury <br>
 Florian Lehner, University of Auckland<br>
@@ -23,7 +22,6 @@ Sebastian Petit, University of Canterbury <br>
 Dane Sandiko, University of the Philippines <br>
 Jeroen Schillewaert, University of Auckland <br>
 Ian Seong, University of Wisconsin-Madison <br>
-Minal Shukla, Independent researcher <br>
 Matt Slattery-Holmes, Otago University <br>
 Gunter Steinke, University of Canterbury <br>
 Sho Suda, National Defense Academy of Japan <br>
