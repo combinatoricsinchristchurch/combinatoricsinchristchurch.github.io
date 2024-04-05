@@ -8,6 +8,7 @@ Carmen Amarra, University of the Philippines Diliman <br>
 John Bamberg, The University of Western Australia <br>
 James Bartlett, University of Canterbury <br>
 Abdul Basit, Monash University <br>
+Rosie Cameron, University of Canterbury <br>
 Marston Conder, University of Auckland <br>
 Rohan Crookbain, University of Canterbury<br>
 Gary Greaves, Nanyang Technological University <br>
