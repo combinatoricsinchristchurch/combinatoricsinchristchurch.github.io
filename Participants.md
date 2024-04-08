@@ -20,6 +20,7 @@ Anita Liebenau, University of New South Wales <br>
 William J. Martin, Worcester Polytechnic Institute <br>
 John McLachlan, University of Canterbury <br>
 Jeanette McLeod, University of Canterbury <br>
+Rajko Nenadov, University of Auckland <br>
 Sebastian Petit, University of Canterbury <br>
 Dane Sandiko, University of the Philippines <br>
 Jeroen Schillewaert, University of Auckland <br>
