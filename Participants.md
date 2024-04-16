@@ -19,6 +19,7 @@ Florian Lehner, University of Auckland<br>
 Harris Leung, University of Auckland <br>
 Anita Liebenau, University of New South Wales <br>
 Simone Linz, University of Auckland <br>
+Kerry Manson, University of Canterbury <br>
 William J. Martin, Worcester Polytechnic Institute <br>
 John McLachlan, University of Canterbury <br>
 Jeanette McLeod, University of Canterbury <br>
