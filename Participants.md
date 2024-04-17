@@ -11,6 +11,7 @@ Abdul Basit, Monash University <br>
 Rosie Cameron, University of Canterbury <br>
 Matthias Chan, University of Auckland <br>
 Marston Conder, University of Auckland <br>
+Brendan Creutz, University of Canterbury <br>
 Rohan Crookbain, University of Canterbury<br>
 Max Croucher, University of Canterbury <br>
 Gary Greaves, Nanyang Technological University <br>
