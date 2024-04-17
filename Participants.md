@@ -18,6 +18,7 @@ Gary Greaves, Nanyang Technological University <br>
 Jesse Lansdown, University of Canterbury <br>
 Florian Lehner, University of Auckland<br>
 Harris Leung, University of Auckland <br>
+Maayan Levy, University of Canterbury <br>
 Anita Liebenau, University of New South Wales <br>
 Simone Linz, University of Auckland <br>
 Kerry Manson, University of Canterbury <br>
