@@ -14,6 +14,7 @@ Marston Conder, University of Auckland <br>
 Brendan Creutz, University of Canterbury <br>
 Rohan Crookbain, University of Canterbury<br>
 Max Croucher, University of Canterbury <br>
+Abigail Edwards, University of Canterbury <br>
 Gary Greaves, Nanyang Technological University <br>
 Jesse Lansdown, University of Canterbury <br>
 Florian Lehner, University of Auckland<br>
