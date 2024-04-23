@@ -39,5 +39,6 @@ Sho Suda, National Defense Academy of Japan <br>
 Geertrui Van de Voorde, University of Canterbury <br>
 Gabriel Verret, University of Auckland <br>
 Felipe Voloch, University of Canterbury <br>
+Sophia Witham, University of Canterbury <br>
 Nicholas Witte, Victoria University of Wellington <br>
 Darius Young, University of Auckland <br>
