@@ -34,7 +34,7 @@ Dominic Searles, University of Otago <br>
 Charles Semple, University of Canterbury <br>
 Ian Seong, University of Wisconsin-Madison <br>
 Matt Slattery-Holmes, Otago University <br>
-Gunter Steinke, University of Canterbury <br>
+Günter Steinke, University of Canterbury <br>
 Sho Suda, National Defense Academy of Japan <br>
 Geertrui Van de Voorde, University of Canterbury <br>
 Gabriel Verret, University of Auckland <br>
