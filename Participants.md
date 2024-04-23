@@ -31,6 +31,7 @@ Sebastian Petit, University of Canterbury <br>
 Dane Sandiko, University of the Philippines <br>
 Jeroen Schillewaert, University of Auckland <br>
 Dominic Searles, University of Otago <br>
+Charles Semple, University of Canterbury <br>
 Ian Seong, University of Wisconsin-Madison <br>
 Matt Slattery-Holmes, Otago University <br>
 Gunter Steinke, University of Canterbury <br>
