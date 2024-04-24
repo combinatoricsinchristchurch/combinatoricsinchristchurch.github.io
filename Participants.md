@@ -8,6 +8,7 @@ Carmen Amarra, University of the Philippines Diliman <br>
 John Bamberg, The University of Western Australia <br>
 James Bartlett, University of Canterbury <br>
 Abdul Basit, Monash University <br>
+Samuel Bastida, Victoria University of Wellington <br>
 Rosie Cameron, University of Canterbury <br>
 Matthias Chan, University of Auckland <br>
 Marston Conder, University of Auckland <br>
