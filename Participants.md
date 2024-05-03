@@ -12,6 +12,7 @@ Samuel Bastida, Victoria University of Wellington <br>
 Rosie Cameron, University of Canterbury <br>
 Matthias Chan, University of Auckland <br>
 Marston Conder, University of Auckland <br>
+Nox Cowie, University of Canterbury <br>
 Brendan Creutz, University of Canterbury <br>
 Rohan Crookbain, University of Canterbury<br>
 Max Croucher, University of Canterbury <br>
