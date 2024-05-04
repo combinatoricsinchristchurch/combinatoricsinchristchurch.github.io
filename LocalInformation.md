@@ -8,6 +8,20 @@ permalink: /localinfo/
 [Campus map](https://www.canterbury.ac.nz/maps/home?poi=10734&z=16&c=-43.52306699770867%2C172.58313382771516)<br>
 [Venue - Engineering Core E16 Lecture Theatre](https://maps.app.goo.gl/cZQAA6n4ic58mEcq9)
 
+# Coffee
+- Therapy Café (personal recommendation)
+- Ancestral (also has bubble tea)
+- Nuts and Bolts café (same venue as conference)
+- Café 101
+- Café 1984
+
+# Food
+- Ancestral
+- Oishii sushi
+- The undercroft (various options)
+- Zyka Indian Cuisine (off campus but nearby)
+
+
 # Transportation
 - **Bus:** Buses run every few minutes from numerous stops around campus and can be viewed on [this map](http://www.metroinfo.co.nz/map/). The website [http://www.metroinfo.co.nz](http://www.metroinfo.co.nz/) has timetables, route maps and a journey planner for all bus routes in Christchurch. The number 3 line runs from the airport to the Ilam Campus every 30 minutes.
 - **Taxi:** [Green Cabs](http://greencabs.co.nz/), [Blue Star](http://www.bluestartaxis.org.nz/), and [Gold Band](http://www.goldbandtaxis.co.nz/)
