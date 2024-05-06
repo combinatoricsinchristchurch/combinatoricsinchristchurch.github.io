@@ -6,7 +6,7 @@ permalink: /localinfo/
 
 # Maps
 [Campus map](https://www.canterbury.ac.nz/maps/home?poi=10734&z=16&c=-43.52306699770867%2C172.58313382771516)<br>
-[Venue - Engineering Core E16 Lecture Theatre](https://maps.app.goo.gl/cZQAA6n4ic58mEcq9)
+[Venue - Rātā/Engineering Core E16 Lecture Theatre](https://maps.app.goo.gl/cZQAA6n4ic58mEcq9)
 
 # Coffee
 - Therapy Café (personal recommendation)
