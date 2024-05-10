@@ -3,7 +3,8 @@ layout: page
 title: Programme
 permalink: /programme/
 ---
-The programme will be made available after registrations are finalised.
+
+Preliminary program is given below. Abstracts will be made available shortly.
 
 | | Tuesday | Wednesday | Thursday|
 |:---:|:---:|:---:|:---:|
