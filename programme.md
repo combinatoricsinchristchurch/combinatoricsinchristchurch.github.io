@@ -4,7 +4,7 @@ title: Programme
 permalink: /programme/
 ---
 
-The programme is given below. Abstracts will be made available shortly.
+Abstracts will be made available shortly.
 
 | | Tuesday | Wednesday | Thursday|
 |:---:|:---:|:---:|:---:|
