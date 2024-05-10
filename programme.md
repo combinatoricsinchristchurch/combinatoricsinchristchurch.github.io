@@ -25,6 +25,7 @@ Preliminary program is given below. Abstracts will be made available shortly.
 | 13:30 - 14:00 | Seong | **Martin** | **Liebenau** |
 | 14:00 - 14:30 | Young | **Martin cont.** | **Liebenau cont.** |
 | 14:30 - 15:00 | Conder | **Martin cont.** | |
+| 15:00 - 15:30 | Lehner | | |
 | | | | |
 | 15:30 - 16:00 | *Afternoon tea* | | |
 | | | | |
