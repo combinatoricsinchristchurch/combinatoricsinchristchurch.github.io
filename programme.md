@@ -10,6 +10,7 @@ The programme will be made available after registrations are finalised.
 | 8:45 - 9:00 | Welcome | | |
 | 9:00 - 9:30 | **Greaves** | **Schillewaert** | **Bamberg** |
 | 9:30 - 10:00 | **Greaves cont.** | **Schillewaert cont.** | **Bamberg cont.** |
+| | | | |
 | 10:00 - 10:30 | *Morning tea* | *Morning tea* | *Morning tea*|
 | 10:30 - 11:00 | Basit | Petit | Linz |
 | 11:00 - 11:30 | Bastida | Steinke | Croucher |
