@@ -4,7 +4,7 @@ title: Programme
 permalink: /programme/
 ---
 
-Preliminary program is given below. Abstracts will be made available shortly.
+The programme is given below. Abstracts will be made available shortly.
 
 | | Tuesday | Wednesday | Thursday|
 |:---:|:---:|:---:|:---:|
@@ -31,3 +31,5 @@ Preliminary program is given below. Abstracts will be made available shortly.
 | | | | |
 | 16:00 - 16:30 | **Amarra** | | |
 | 16:30 - 17:00 | **Amarra cont.** | |
+
+All talks are in [Rātā/Engineering Core E16 Lecture Theatre](https://maps.app.goo.gl/cZQAA6n4ic58mEcq9) and morning and afternoon tea will be in E15.
