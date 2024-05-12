@@ -8,7 +8,8 @@ Abstracts will be made available shortly.
 
 | | Tuesday | Wednesday | Thursday|
 |:---:|:---:|:---:|:---:|
-| 8:45 - 9:00 | Welcome | | |
+| 8:30 - 8:50 | Registration | | |
+| 8:50 - 9:00 | Welcome | | |
 | 9:00 - 9:30 | **Greaves** | **Schillewaert** | **Bamberg** |
 | 9:30 - 10:00 | **Greaves cont.** | **Schillewaert cont.** | **Bamberg cont.** |
 | | | | |
