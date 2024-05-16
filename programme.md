@@ -16,8 +16,8 @@ Abstracts will be made available shortly.
 | 10:00 - 10:30 | *Morning tea* | *Morning tea* | *Morning tea*|
 | | | | |
 | 10:30 - 11:00 | Basit | Petit | Linz |
-| 11:00 - 11:30 | Bastida | Steinke | Croucher |
-| 11:30 - 12:00 | **Suda** | Searles | McLachlan |
+| 11:00 - 11:30 | Bastida | Steinke | McLachlan |
+| 11:30 - 12:00 | **Suda** | Searles | Croucher |
 | 12:00 - 12:30 | **Suda cont.** | Slattery-Holmes | Nenadov |
 | | | | |
 | 12:30 - 13:00 | *Photo + Lunch* | *Lunch* | *Lunch* |
