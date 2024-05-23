@@ -4,7 +4,7 @@ title: Programme
 permalink: /programme/
 ---
 
-Abstracts will be made available shortly.
+[The conference booklet (with talk abstracts) is available here.](https://combinatoricsinchristchurch.github.io/Combinatorics%20in%20Christchurch%20-%20Booklet.pdf)
 
 | | Tuesday | Wednesday | Thursday|
 |:---:|:---:|:---:|:---:|
