@@ -6,7 +6,7 @@ permalink: /programme/
 
 [The conference booklet (with talk abstracts) is available here.](https://combinatoricsinchristchurch.github.io/Combinatorics%20in%20Christchurch%20-%20Booklet.pdf)
 
-| | Tuesday | Wednesday | Thursday|
+| | Tuesday (4 June) | Wednesday (5 June) | Thursday (6 June) |
 |:---:|:---:|:---:|:---:|
 | 8:30 - 8:50 | Registration | | |
 | 8:50 - 9:00 | Welcome | | |
