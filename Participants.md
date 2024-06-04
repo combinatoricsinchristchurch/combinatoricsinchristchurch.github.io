@@ -4,7 +4,9 @@ title: Participants
 permalink: /participants/
 ---
 
+<!--
 <img src="https://combinatoricsinchristchurch.github.io/M1M02742cropped.JPG">
+-->
 
 Carmen Amarra, University of the Philippines Diliman <br>
 John Bamberg, The University of Western Australia <br>
