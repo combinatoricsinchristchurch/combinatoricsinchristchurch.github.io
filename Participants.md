@@ -4,6 +4,8 @@ title: Participants
 permalink: /participants/
 ---
 
+<img src="M1M02742cropped.JPG">
+
 Carmen Amarra, University of the Philippines Diliman <br>
 John Bamberg, The University of Western Australia <br>
 James Bartlett, University of Canterbury <br>
